@@ -1,0 +1,47 @@
+{
+	"added_words":
+	[
+		"ignorability",
+		"exogeneity",
+		"Kosuke",
+		"Imai",
+		"Ansolabehere",
+		"Kuriwaki",
+		"Shiro",
+		"Tingley",
+		"Stata",
+		"online",
+		"poststratifiation",
+		"Horiuchi",
+		"Yusaku",
+		"majoritarian",
+		"Clientelism"
+	],
+	"color_scheme": "Packages/Brackets Color Scheme/Brackets Light.sublime-color-scheme",
+	"file_exclude_patterns":
+	[
+		"*.aux",
+		"*.bbl",
+		"*-blx.bib",
+		"*.blg",
+		"*.fdb_latexmk",
+		"*.fls",
+		"*.out",
+		"*.synctex.gz",
+		"*.run.xml",
+		"*.nav",
+		"*.snm",
+		"*.toc",
+		"*.DS_Store",
+		"*.pdf",
+		"*.docx",
+		"*.xlsx",
+		"*.xls",
+		"*.xdv"
+	],
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}

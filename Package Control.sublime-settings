@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"Github Color Theme",
+		"GitHub Flavored Markdown Preview",
+		"Inspired GitHub Color Scheme",
+		"LaTeX Equation Preview",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"LSP",
+		"Package Control",
+		"R-IDE",
+		"Stata Improved Editor",
+		"sublime-github",
+		"Theme - Cobalt2",
+		"WordCount",
+		"Writing Color Scheme",
+		"Writing Style"
+	]
+}

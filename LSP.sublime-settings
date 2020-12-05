@@ -1,0 +1,13 @@
+{
+	"clients":
+	{
+		"ccls-r":
+		{
+			"enabled": true
+		},
+		"rlang":
+		{
+			"enabled": true
+		}
+	}
+}
