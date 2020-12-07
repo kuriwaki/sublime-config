@@ -2,19 +2,4 @@
 
 
 
-## Packages
-
-- `LaTeXTools`
-- `R-IDE`
-- `User`
-- `Writing Style`
-- `backrefs`
-- `markupsafe`
-- `mdpopups`
-- `pygments`
-- `pymdownx`
-- `python-jinja2`
-- `python-markdown`
-- `pyyaml`
-
-
+For packages to install, see the file `Package Control.sublime-settings`
